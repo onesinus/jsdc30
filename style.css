@@ -1,0 +1,13 @@
+.blue{
+	color: blue;
+	font-size: 16px;
+}
+
+.font12{
+	font-size: 12px;
+}
+
+#id01{
+	border: 1px solid black;
+	color: red;
+}
